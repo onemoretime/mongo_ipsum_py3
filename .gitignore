@@ -3,3 +3,4 @@ dist
 *.egg-info
 .report*
 docs/source/generated
+__pycache__
