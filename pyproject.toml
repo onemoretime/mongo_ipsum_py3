@@ -31,7 +31,7 @@ Tracker = "https://github.com/onemoretime/mongo_ipsum_py3/issues"
 [project.optional-dependencies]
 test = [
     "bandit[toml]==1.7.6",
-    "pre-commit==3.6.0",
+    "pre-commit==3.6.1",
     "pylint==3.0.3",
     "pylint_junit",
     "pytest-cov==4.1.0",
