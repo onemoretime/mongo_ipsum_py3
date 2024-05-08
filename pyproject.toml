@@ -20,7 +20,7 @@ classifiers = [
 ]
 requires-python = ">=3.7"
 dependencies = [
-    "pymongo == 4.7.1",
+    "pymongo == 4.7.2",
 ]
 
 [project.urls]
